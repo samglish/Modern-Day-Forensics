@@ -47,8 +47,7 @@ Cybercrime examples:
 * Identity Theft – Using someone else’s identity for fraud
 * Cyberstalking – Harassment through digital means
 * Online Fraud – Financial scams using e-commerce or banking platforms
-
-Child Exploitation – Sharing illegal or abusive content
+* Child Exploitation – Sharing illegal or abusive content
 
 Data Breach – Theft or exposure of personal/confidential information
 

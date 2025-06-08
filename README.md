@@ -45,8 +45,7 @@ Cybercrime examples:
 * Phishing – Deceiving users to reveal sensitive information
 * Ransomware – Encrypting files and demanding payment
 * Identity Theft – Using someone else’s identity for fraud
-
-Cyberstalking – Harassment through digital means
+* Cyberstalking – Harassment through digital means
 
 Online Fraud – Financial scams using e-commerce or banking platforms
 

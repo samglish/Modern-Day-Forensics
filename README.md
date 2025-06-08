@@ -43,8 +43,7 @@ Cybercrime examples:
 
 * Hacking – Unauthorized access to systems
 * Phishing – Deceiving users to reveal sensitive information
-
-Ransomware – Encrypting files and demanding payment
+* Ransomware – Encrypting files and demanding payment
 
 Identity Theft – Using someone else’s identity for fraud
 

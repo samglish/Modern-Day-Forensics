@@ -39,7 +39,22 @@ Cybercrime examples:
 > Online fraud (phishing, scams)
 > Exploiting digital platforms (social media abuse, darknet markets)
 
+### Types of Cybercrime
 
+* Hacking – Unauthorized access to systems
+* Phishing – Deceiving users to reveal sensitive information
+
+Ransomware – Encrypting files and demanding payment
+
+Identity Theft – Using someone else’s identity for fraud
+
+Cyberstalking – Harassment through digital means
+
+Online Fraud – Financial scams using e-commerce or banking platforms
+
+Child Exploitation – Sharing illegal or abusive content
+
+Data Breach – Theft or exposure of personal/confidential information
 
 
 

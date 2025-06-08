@@ -10,3 +10,12 @@ Modern-day forensics uses advanced digital techniques to investigate cyber incid
 
 ### Introduction
 Modern forensics refers to the use of advanced scientific, technological, and digital techniques in the investigation and resolution of criminal cases. Unlike traditional forensics, it encompasses not only biology and chemistry but also computer science, data analytics, and artificial intelligence.
+
+### Forensic Objectives
+The main objectives of modern forensics are:
+> * Evidence collection and preservation
+> * Identification of perpetrators
+> * Understanding the timeline and nature of criminal events
+> * Providing solid, scientific proof in courts of law
+> * Preventing future crimes through proactive analysis
+

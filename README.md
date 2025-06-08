@@ -9,3 +9,4 @@ Modern-day forensics uses advanced digital techniques to investigate cyber incid
 > Types of cyber crime
 
 ### Introduction
+Modern forensics refers to the use of advanced scientific, technological, and digital techniques in the investigation and resolution of criminal cases. Unlike traditional forensics, it encompasses not only biology and chemistry but also computer science, data analytics, and artificial intelligence.

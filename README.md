@@ -23,8 +23,7 @@ The main objectives of modern forensics are:
 We need forensics because:
 > * Criminals are using more sophisticated tools (e.g., encrypted messaging, deepfakes)
 > * Forensics enables accurate identification and exoneration of the innocent
-
-It supports digital evidence, which is now critical in most crimes
+> * It supports digital evidence, which is now critical in most crimes
 
 It strengthens the credibility of judicial systems
 

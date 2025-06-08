@@ -35,8 +35,11 @@ Modern forensics refers to the use of advanced scientific, technological, and di
 
 Cybercrime examples:
 > Stealing personal data `(identity theft)`
+
 > Attacking systems `(DDoS, ransomware)`
+
 > Online fraud `(phishing, scams)`
+
 > Exploiting digital platforms `(social media abuse, darknet markets)`
 
 ### Types of Cybercrime

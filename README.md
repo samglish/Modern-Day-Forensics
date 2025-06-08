@@ -25,8 +25,7 @@ We need forensics because:
 > * Forensics enables accurate identification and exoneration of the innocent
 > * It supports digital evidence, which is now critical in most crimes
 > * It strengthens the credibility of judicial systems
-
-It aids in national security and cybersecurity
+> * It aids in national security and cybersecurity
 
 
 

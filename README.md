@@ -3,4 +3,5 @@ Modern-day forensics uses advanced digital techniques to investigate cyber incid
 
 > Introduction
 > Historical
-> Forensic objectives.
+> Forensic objectives
+> Why we need forensics

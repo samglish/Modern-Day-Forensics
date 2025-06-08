@@ -32,6 +32,14 @@ Modern forensics refers to the use of advanced scientific, technological, and di
 > * It strengthens the credibility of judicial systems
 > * It aids in national security and cybersecurity
 
+### Cybercrime
+> Cybercrime refers to criminal activities carried out through computers, networks, or the internet. It is one of the fastest-growing forms of crime globally and can cause massive financial, psychological, and societal harm.
+
+Cybercrime examples:
+> Stealing personal data (identity theft)
+> Attacking systems (DDoS, ransomware)
+> Online fraud (phishing, scams)
+> Exploiting digital platforms (social media abuse, darknet markets)
 
 
 
